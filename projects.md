@@ -105,7 +105,7 @@ A collection of projects I've worked on recently, in and out of school!
 </div>
 
 <div class="project-card">
-  <div class="project-image" style="background-image: url('{{ "/assets/img/pill.jpg" | relative_url }}');"></div>
+  <div class="project-image" style="background-image: url({{ "/assets/img/pill.jpg" | relative_url }});"></div>
   <div class="project-content">
     <h3>Opioid Control Policy Analysis</h3>
     <p class="project-description">A difference-in-differences analysis of opioid control policies implemented in Washington & Florida.</p>
