@@ -114,7 +114,7 @@ A collection of projects I've worked on recently, in and out of school!
       <span class="tag">Data Wrangling</span>
       <span class="tag">Public Health Policy</span>
     </div>
-    <a href="#" class="project-link">View Paper (Repo is Private) →</a>
+    <a href="https://github.com/rrandev03/opioids-2024-public-version" class="project-link">View Project →</a>
   </div>
 </div>
 </div>
