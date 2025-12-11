@@ -9,7 +9,7 @@ url:                   https://rrandev03.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               '/profile'
+baseurl:               ""
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -47,21 +47,21 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Projects
-    url:               /profile/projects/
+    url:               /projects/
   - title:             Resume
-    url:               /profile/resume/
+    url:               /resume/
   - title:             About
-    url:               /profile/about/
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /profile/LICENSE/
+    url:               /LICENSE/
   - title:             NOTICE
-    url:               /profile/NOTICE/
+    url:               /NOTICE/
   - title:             CHANGELOG
-    url:               /profile/CHANGELOG/
+    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © 2025. Jekyll theme Hydejack. Project photos from Unsplash. <br>Logo photo by <a href="https://unsplash.com/@katuriakhila?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Akhila Katuri</a> on <a href="https://unsplash.com/photos/brown-and-green-trees-on-mountain-under-white-clouds-during-daytime-5is_9tno9BQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> (Shenandoah National Park, close to where I call home).
