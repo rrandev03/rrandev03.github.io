@@ -49,6 +49,20 @@ A collection of projects I've worked on recently, in and out of school!
 </div>
 
 <div class="project-card">
+  <div class="project-image" style="background-image: url('{{ "/assets/img/nflpa.jpg" | relative_url }}');"></div>
+  <div class="project-content">
+    <h3>NFLPA Injury Risk Analysis</h3>
+    <p class="project-description">An analysis of factors predicting injury vs. re0njury risk, how patterns differ across positions and workloads, and how this can motivate NFLPA policy advocacy for the 2025 NFLPA Case Competition.</p>
+    <div class="project-tags">
+      <span class="tag">XGBoost</span>
+      <span class="tag">SHAP</span>
+      <span class="tag">Mixed Effects Modeling</span>
+    </div>
+    <a href="https://github.com/jc39963/NFLPA_2025" class="project-link">View Project →</a>
+  </div>
+</div>
+
+<div class="project-card">
   <div class="project-image" style="background-image: url('{{ "/assets/img/warning.jpg" | relative_url }}');"></div>
   <div class="project-content">
     <h3>Predicting Web Application Failures</h3>
